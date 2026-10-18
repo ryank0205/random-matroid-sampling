@@ -1,4 +1,4 @@
-# Benchmarking for the Project IV random matroid sampler.
+# Benchmarking for the Project IV random matroid sampler, written by ChatGPT.
 # Keep the sampling operations in random_matroid_sampler.jl.
 # Loading this file also loads the sampler if needed.
 
